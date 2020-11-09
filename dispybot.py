@@ -43,7 +43,7 @@ from discord.errors import Forbidden
 from discord.ext.commands import has_permissions, Bot, Greedy
 from discord.ext.commands import BadArgument, CommandNotFound, MissingPermissions, MissingRequiredArgument
 
-TOKEN = "your-token-here"
+TOKEN = "NzcyODY3MjkxOTEwMTExMjky.X6A6wQ.xJiojgczsouh3KtS3vVrkUeI0E4"
 PREFIX = "!"
 CURSES = ("cunt", "faggot", "nigger")
 VERSION = "1.1.10"
